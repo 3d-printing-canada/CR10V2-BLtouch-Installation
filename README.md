@@ -21,7 +21,5 @@ a) Device: Mega(ATMEGA2560)
 b) Com port: Your printers port (it will show up in the list as something like Com2, Com7, etc)
 c) Baud Rate: 115200
 
-Download the hex file from this repository. Load that into xLoader and flash the firmware. Viola! 
-
-The source code for the hex file is stored in the folder. 
+Download the 'Marlin.ino.mega' hex file from this repository. Load that into xLoader and flash the firmware. Viola! 
 
