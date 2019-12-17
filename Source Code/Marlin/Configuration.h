@@ -1477,11 +1477,11 @@
 
 // Certain types of probes need to stay away from edges
 #if ENABLED(MachineCR10Max, MachineCR10SV2)
-  #define MIN_PROBE_EDGE 15
+  #define MIN_PROBE_EDGE 30
 #elif ENABLED(ABL_BLTOUCH)
-  #define MIN_PROBE_EDGE 3
+  #define MIN_PROBE_EDGE 30
 #else
-  #define MIN_PROBE_EDGE 10
+  #define MIN_PROBE_EDGE 30
 #endif
 
 // X and Y axis travel speed (mm/m) between probes
