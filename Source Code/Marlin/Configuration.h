@@ -57,7 +57,7 @@
 
  //#define EZRstruder
  //#define Bondtech
- //#define E3DTitan
+ #define E3DTitan
  //#define DirectDrive // Any direct drive extruder, reduces filament change lengths
 
 /*
